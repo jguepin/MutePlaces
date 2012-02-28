@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MutePlaces</string>
+    <string name="muteV">Mute Phone (Vibrate)</string>
+    <string name="add">Add a location</string>
+    <string name="muteS">Mute Phone (Silent)</string>
+    <string name="unmute">Normal mode</string>
+    <string name="place_name_popup_field">Place name</string>
+    <string name="place_name_popup_title">Add a place</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="name">Name</string>
+    <string name="mode">Mode</string>
+    <string name="normal_mode">Normal</string>
+    <string name="vibrate_mode">Vibrate</string>
+    <string name="silent_mode">Silent</string>
+    <string name="unnamed_place">Unnamed place</string>
+    <string name="radius">Radius (meters)</string>
+    <string name="meters">meters</string>
+    <string name="context_modify">Modify place</string>
+    <string name="context_delete">Delete place</string>
+    <string name="context_maps">Display on Maps</string>
+    <string name="context_set_mode">Set the mode</string>
+    <string name="loading_location">Loading location...</string>
+    <string name="location_disabled_dialog">Location is disabled, would you like to enable it ? MutePlaces does not work without location...</string>
+    <string name="enable_location">Enable location</string>
+    <string name="no_thanks">No thanks</string>
+    <string name="about">About</string>
+    <string name="quit">Quit</string>
+    <string name="description">MutePlaces allows to automatically change your phone profile (silent, vibrate or normal mode) depending on your current location.</string>
+    <string name="license">Application developed by Julien Guepin. MutePlaces is free software licensed under the BSD license.</string>
+    <string name="mute_multimedia">Mute multimedia</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+		<TextView android:id="@+id/placeLabel" android:layout_width="wrap_content"
+			android:text="hello" android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:minHeight="?android:attr/listPreferredItemHeight"
+			android:textSize="30sp" />
+		<ImageView android:id="@+id/modePlaceIcon"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:paddingLeft="2px" android:paddingTop="2px"
+			android:layout_alignParentRight="true" />
+		<ImageView android:id="@+id/multimediaPlaceIcon"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:paddingLeft="2px" android:paddingRight="6px"
+			android:paddingTop="2px" android:layout_toLeftOf="@id/modePlaceIcon" />
+	</RelativeLayout>
+</LinearLayout>

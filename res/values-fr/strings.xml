@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MutePlaces</string>
+    <string name="muteV">Mettre en silencieux (Vibreur)</string>
+    <string name="add">Ajouter un lieu</string>
+    <string name="muteS">Mettre en silencieux (Sans Vibreur)</string>
+    <string name="unmute">Mode Normal</string>
+    <string name="place_name_popup_field">Nom du lieu</string>
+    <string name="place_name_popup_title">Ajouter un lieu</string>
+    <string name="coordinates">Coordonnées</string>
+    <string name="name">Nom</string>
+    <string name="vibrate_mode">Vibreur</string>
+    <string name="silent_mode">Silencieux</string>
+    <string name="unnamed_place">Lieu sans nom</string>
+    <string name="radius">Rayon (mètres)</string>
+    <string name="meters">mètres</string>
+    <string name="context_modify">Modifier le lieu</string>
+    <string name="context_delete">Supprimer le lieu</string>
+    <string name="context_maps">Afficher sur la carte</string>
+    <string name="context_set_mode">Appliquer le mode</string>
+    <string name="loading_location">Chargement de la localisation...</string>
+    <string name="location_disabled_dialog">La localisation est désactivée, voulez-vous l\'activer ? Mute Places ne fonctionne pas sans localisation...</string>
+    <string name="enable_location">Activer la localisation</string>
+    <string name="no_thanks">Non merci</string>
+    <string name="about">À propos</string>
+    <string name="quit">Quitter</string>
+    <string name="description">MutePlaces permet de changer automatiquement le profil de votre téléphone (mode silencieux, vibreur ou normal) en fonction de votre localisation.</string>
+    <string name="license">Application développée par Julien Guepin. MutePlaces est un logiciel libre sous licence BSD.</string>
+    <string name="mute_multimedia">Multimédia silencieux</string>
+</resources>
